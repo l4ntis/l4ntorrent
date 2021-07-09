@@ -1,2 +1,13 @@
 
- readme
+ 
+ Language : RUST or node
+
+Init Steps:
+- Watch new video file
+- Format video name (template)
+- Detect if movies or series
+- Send to remote server
+- remove file from disk.
+
+Rust lib to use
+- https://docs.rs/notify/4.0.17/notify/index.html#default-debounced-api
